@@ -1,14 +1,15 @@
-.. Example documentation master file, created by
-   sphinx-quickstart on Sat Sep 23 20:35:12 2023.
+.. Bachata_docs documentation master file, created by
+   sphinx-quickstart on Sun Mar  8 19:40:49 2026.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Example's documentation!
-===================================
+Bachata figury a slovníček pojmů
+========================================
+
+Kolekce pojmů a list :doc:`figur <figury>`
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
 
-   some-feature.md
-   another-feature.md
+   figury
