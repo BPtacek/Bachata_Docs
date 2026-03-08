@@ -36,6 +36,6 @@ Bachata figury
 #. Prochazka
 #. Reverzni stinovka
 #. Headroll
-#. Ball
+#. Balón
 #. Madrid step
 #. Zamek
