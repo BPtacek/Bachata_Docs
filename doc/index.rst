@@ -6,7 +6,7 @@
 Bachata figury a slovníček pojmů
 ========================================
 
-Kolekce pojmů a list :doc:`figur <figury>`
+Kolekce pojmů a list figur tance Bachata.
 
 .. toctree::
    :maxdepth: 2
