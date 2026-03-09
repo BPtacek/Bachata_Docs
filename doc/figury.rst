@@ -39,3 +39,5 @@ Bachata figury
 #. Balón
 #. Madrid step
 #. Zamek
+#. Bounce
+#. Lamfáza
